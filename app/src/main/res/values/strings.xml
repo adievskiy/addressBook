@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string name="hintNameET">Введите имя</string>
+    <string name="hintSecondNameET">Введите фамилию</string>
+    <string name="hintAddressET">Введите адрес</string>
+    <string name="hintPhoneNumberET">Введите телефон</string>
+    <string name="textSaveBTN">Добавить в адресную книгу</string>
+    <string name="textBackBTN">Вернуться в адресную книгу</string>
+</resources>
